@@ -34,7 +34,6 @@
         "magento/module-wishlist-sample-data": "100.4.*",
         "magento/product-community-edition": "2.4.2",
         "magento/sample-data-media": "100.4.*",
-        "mageplaza/magento-2-social-login": "^4.1",
         "mageplaza/magento-2-vietnamese-language-pack": "dev-master"
     },
     "autoload": {
